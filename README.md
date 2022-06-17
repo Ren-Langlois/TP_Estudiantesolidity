@@ -2,12 +2,14 @@
 Estudiantes informacion notas en solidity
 René L. y Benja G.O.
 
-Trabsaction hash: 0xc75078ba1b1ed7fe12f16ae0567f8a5ede5a89222a0f92a67f117c506745d1e0 
+No se si entendi bien lo que hay que poner, entonces mande varias cosas porque mejor que sobre.
+
+https://rinkeby.etherscan.io/address/0xAB591F1f159E357a53Ff77441AeaEd3345efFa05 
+
+
+
+Transaction hash: 0xc75078ba1b1ed7fe12f16ae0567f8a5ede5a89222a0f92a67f117c506745d1e0 
 Status: Success
-
-
-
-
 
 
 Welcome to Remix 0.24.1 
